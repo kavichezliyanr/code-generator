@@ -85,7 +85,7 @@ function AppContent() {
               <HStack 
                 spacing={1} 
                 as="a" 
-                href="https://github.com/yourusername/ai-code-editor" 
+                href="https://github.com/kavichezliyanr/code-generator" 
                 target="_blank"
                 _hover={{ color: 'blue.400' }}
               >
